@@ -7,3 +7,5 @@ This is my first code in ANA 505
 In my free time I love to
 
 I love to eat 🍔 and play ⚽
+
+I love to eat 🍕and play 🏀
